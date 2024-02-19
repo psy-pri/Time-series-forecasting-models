@@ -1,8 +1,8 @@
 # Time series forecasting
 
-# Concepts 
-# Seasonal Decomposition
-# Exponential Smoothing 
+### Concepts 
+#### Seasonal Decomposition
+#### Exponential Smoothing 
 
-# Models
-# Holt-Winters
+### Models
+#### Holt-Winters
