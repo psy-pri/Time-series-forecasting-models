@@ -6,3 +6,4 @@
 
 ### Models
 #### Holt-Winters
+#### Facebook Prophet
