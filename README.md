@@ -1,9 +1,11 @@
-# Time series forecasting
+# Time series forecasting models
 
 ### Concepts 
-#### Seasonal Decomposition
-#### Exponential Smoothing 
+- Seasonal Decomposition
+- Exponential Smoothing 
 
 ### Models
-#### Holt-Winters
-#### Facebook Prophet
+- Holt-Winters
+- Facebook Prophet
+- TBATS
+
